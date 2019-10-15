@@ -30,16 +30,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Check out https://jsfanatik.github.io to learn more about the VueStacks initiative!
-
-![alt text](https://raw.githubusercontent.com/jsfanatik/jsfanatik.github.io/master/assets/cal-screen.JPG)
-
-![alt text](https://raw.githubusercontent.com/jsfanatik/jsfanatik.github.io/master/assets/cal-screen4.JPG)
-
 ### Описание
 
 Проект реализует возможность создавать события привязанные к календарю, с сохранением информации в firebase
